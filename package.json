@@ -30,4 +30,8 @@
   "bundleDependencies": [],
   "private": true,
   "main": "server.js"
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> aa263c9ad78263925fcf4a26c38b725c3f67bdd5
